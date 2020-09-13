@@ -28,7 +28,6 @@ This project will include a web app where an emergency worker can input a new me
 ## 2. Files
 
 <pre>
-
 ├── data
 │   ├── articles_community.csv-------------# DATA TO PROCESS
 │   └── user-item-interactions.csv---------# DATA TO PROCESS
@@ -40,7 +39,6 @@ This project will include a web app where an emergency worker can input a new me
 ├── top_10.p-------------------------------# PERFORM TOP 10 CALCULATION
 ├── top_20.p-------------------------------# PERFORM TOP 20 CALCULATION
 ├── user_item_matrix.p---------------------# PERFORM MATRIX FACTORIZATION
-
 </pre>
 
 <a id='sw'></a>

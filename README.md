@@ -15,11 +15,9 @@
 
 ## 1. Project Overview
 
-In this project, I'll apply a data science approach to analyze disaster data from <a href="https://www.figure-eight.com/" target="_blank">Figure Eight</a> to build a model for an API that classifies disaster messages.
+In this project, I'll apply a data science approach to  the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles we think they will like.
 
-_data_ directory contains a data set which are real messages that were sent during disaster events. I will be creating a machine learning pipeline to categorize these events so that appropriate disaster relief agency can be reached out for help.
-
-This project will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
+Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
 
 ![master](img/ibm.png)
 

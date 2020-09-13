@@ -53,6 +53,5 @@ This project uses **Python 3.6.3** and the necessary libraries are numpy, matplo
 
 ## 4. Credits and Acknowledgements <a name='licensing'></a>
 
-Must give credit to [Figure-eight](https://www.figure-eight.com/) for the data and [Udacity](https://www.udacity.com/courses/all) for creating a great learning experience.  
-Find the Licensing for the data and other descriptive information from [Figure-eight](https://www.figure-eight.com/dataset/combined-disaster-response-data/).
-
+Must give credit to [IBM Cloud Pak for Data](https://dataplatform.cloud.ibm.com/) for the data and [Udacity](https://www.udacity.com/courses/all) for creating a great learning experience.  
+Find the Licensing for the data and other descriptive information from [IBM Cloud Pak for Data](https://dataplatform.cloud.ibm.com/).

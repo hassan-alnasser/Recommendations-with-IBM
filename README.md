@@ -28,20 +28,18 @@ This project will include a web app where an emergency worker can input a new me
 ## 2. Files
 
 <pre>
-.
-├── app
-│   ├── run.py------------------------# FLASK FILE THAT RUNS APP│   
-│   └── templates
-│       ├── go.html-------------------# CLASSIFICATION RESULT PAGE OF WEB APP
-│       └── master.html---------------# MAIN PAGE OF WEB APP
+
 ├── data
-│   ├── DisasterResponse.db-----------# DATABASE TO SAVE CLEANED DATA TO
-│   ├── disaster_categories.csv-------# DATA TO PROCESS
-│   ├── disaster_messages.csv---------# DATA TO PROCESS
-│   └── process_data.py---------------# PERFORMS ETL PROCESS
-├── img-------------------------------# PLOTS FOR USE IN README AND THE WEB APP
-├── models
-│   └── train_classifier.py-----------# PERFORMS CLASSIFICATION TASK
+│   ├── articles_community.csv-------------# DATA TO PROCESS
+│   └── user-item-interactions.csv---------# DATA TO PROCESS
+├── img------------------------------------# PLOTS FOR USE IN README
+├── project_tests.py-----------------------# PERFORM TEST SCRIPTS
+├── Recommendations_with_IBM.html----------# HTML NOTEBOOK
+├── Recommendations_with_IBM.ipynb---------# MAIN PROJECT NOTEBOOK
+├── top_5.p--------------------------------# PERFORM TOP 5 CALCULATION
+├── top_10.p-------------------------------# PERFORM TOP 10 CALCULATION
+├── top_20.p-------------------------------# PERFORM TOP 20 CALCULATION
+├── user_item_matrix.p---------------------# PERFORM MATRIX FACTORIZATION
 
 </pre>
 
